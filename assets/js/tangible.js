@@ -480,6 +480,7 @@ export default class Tangible {
     }
 
     setupTangible() {
+        //add
         //this.setVideoCanvasHeight('video-canvas');
         let tangible = this;
         // register a callback function with the TopCode library
